@@ -39,6 +39,7 @@ const Banner = () => {
           </button>
         </div>
       </div>
+
       <div className="animate-pulse">
         <img
           src={bannerImg}
